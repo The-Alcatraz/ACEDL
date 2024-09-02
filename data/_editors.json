@@ -3,12 +3,8 @@
         "role": "owner",
         "members": [
             {
-                "name": "Kuro",
+                "name": "eyralia",
                 "link": ""
-            },
-            {
-                "name": "Padahk",
-                "link": "https://www.youtube.com/channel/UCab6v0QABvh4ca5EJrlgH9A"
             }
         ]
     },
@@ -16,36 +12,16 @@
         "role": "admin",
         "members": [
             {
-                "name": "Kuzzi",
+                "name": "Fizzi",
                 "link": "https://www.youtube.com/channel/UCtLuHWMWDEulHAYA5GJyGHA"
             },
             {
-                "name": "Bobbyp02",
+                "name": "maxine",
                 "link": "https://www.youtube.com/channel/UCZQWL17sRXpZ5jYTW_HEZng"
             },
             {
-                "name": "Duckiee",
+                "name": "carv",
                 "link": "https://www.youtube.com/@DuckieeGD"
-            },
-            {
-                "name": "Prometheus",
-                "link": ""
-            },
-            {
-                "name": "[ACE] YeahSlayed",
-                "link": ""
-            },
-            {
-                "name": "Megu",
-                "link": ""
-            },
-            {
-                "name": "[ACE] SlightliFizzi",
-                "link": ""
-            },
-            {
-                "name": "[ACE] MobileBot",
-                "link": "https://www.youtube.com/channel/UCeXijKIQqP5PZFEOZ8XCeKw"
             }
         ]
     },
@@ -53,28 +29,20 @@
         "role": "mod",
         "members": [
             {
-                "name": "faulheitsmensch",
+                "name": "Duckiee",
                 "link": "https://www.youtube.com/@faulheitsmensch6537"
             },
             {
-                "name": "Chubby",
+                "name": "kuip",
                 "link": "https://www.youtube.com/@VTB_GD/featured"
             },
             {
-                "name": "IvanCrafter026",
+                "name": "Staticon",
                 "link": "https://www.youtube.com/channel/UCnRHi7-GOiXeVtvHgp1Xcxw"
             },
             {
-                "name": "Shyne",
+                "name": "Yinata",
                 "link": ""
-            },
-            {
-                "name": "Pentu",
-                "link": "https://www.youtube.com/channel/UCd9J3-xylMKBQAOikAEd9Bg"
-            },
-            {
-                "name": "FSyn",
-                "link": "https://www.youtube.com/channel/UCNTUzSdBxqnhT39LsscteRg"
             }
         ]
     },
@@ -82,92 +50,12 @@
         "role": "helper",
         "members": [
             {
-                "name": "exofr",
-                "link": "https://www.youtube.com/@ex0fr/featured"
-            },
-            {
-                "name": "Tylor",
-                "link": "https://www.youtube.com/@tylorGMD"
-            },
-            {
-                "name": "[ACE] IBeatRetray",
-                "link": "https://www.youtube.com/channel/UCyX7W-K8_iKRvBpAO0o6epg"
-            },
-            {
-                "name": "[ACE] wadur",
-                "link": "https://www.youtube.com/channel/UC1NqMDYIu1SYUKyMrMbadJA"
-            },
-            {
-                "name": "WinDoge",
-                "link": "https://www.youtube.com/@windogee"
-            },
-            {
-                "name": "Chenii",
-                "link": ""
-            },
-            {
-                "name": "[ACE] gigile",
-                "link": "https://www.youtube.com/channel/UCnU04Gvq50VklyAsug5P3KA"
-            },
-            {
-                "name": "JaydenvdH",
-                "link": "https://www.youtube.com/channel/UCJgdy-pEUeVO5C4sihsjtOA"
-            },
-            {
-                "name": "[ACE] Laserduck42",
-                "link": ""
-            },
-            {
-                "name": "[FOWL] dartlolz",
-                "link": ""
-            },
-            {
-                "name": "zac911",
-                "link": ""
-            },
-            {
-                "name": "Callum",
-                "link": ""
-            },
-            {
-                "name": "[BHO] Mentrillum",
-                "link": "https://www.youtube.com/@RealDeathCorridor"
-            },
-            {
-                "name": "GJosh2",
-                "link": ""
-            },
-            {
-                "name": "AzaFTW",
-                "link": ""
             }
         ] 
     },    
     {       "role": "dev",
             "members": [
                 {
-                    "name": "Simolater",
-                    "link": "https://www.youtube.com/channel/UCHuFRMtpbYyVHIjXG1-h7SA"
-                },
-                {
-                    "name": "Infectus",
-                    "link": "https://www.youtube.com/@infectus"
-                },
-                {
-                    "name": "Zoink Doink",
-                    "link": "https://www.youtube.com/channel/UCaGtN9gENwLEX15tZMsGrow"
-                },
-                {
-                    "name": "Oculations",
-                    "link": "https://www.youtube.com/@Oculations"
-                },
-                {
-                    "name": "WinDoge",
-                    "link": "https://www.youtube.com/@windogee"
-                },
-                {
-                    "name": "Minebox260",
-                    "link": "https://www.youtube.com/channel/UC4N25ULgPMmeKv5XwgJD5-A"
                 }
             ]
     }
